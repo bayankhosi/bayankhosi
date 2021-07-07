@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bayankhosi
-- 👀 I’m interested in electrical engineering, data mining and also, farming.
+- 👀 I’m interested in electrical engineering, data mining and machine learning.
 - 🌱 I’m currently learning electrical and electronics engineering.
 - 💞️ I’m looking to collaborate on beginner friendly python programs.
 - 📫 How to reach me @bayankhosi on Instagram
