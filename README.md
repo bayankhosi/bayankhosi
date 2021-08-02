@@ -2,7 +2,7 @@
 - 👀 I’m interested in electrical engineering, data mining and machine learning.
 - 🌱 I’m currently learning electrical and electronics engineering.
 - 💞️ I’m looking to collaborate on beginner friendly python programs.
-- 📫 Reach me on https://www.linkedin.com/in/bayanda-dlamini-89b11bba
+- 📫 Reach me on www.linkedin.com/in/bayankhosi
 
 <!---
 bayankhosi/bayankhosi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
